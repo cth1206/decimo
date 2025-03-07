@@ -9,10 +9,12 @@ nav{
     grid-column: 1/3;
     grid-row: 2/3;
 }
-img{
+header img{
     grid-column: 2/3;
     grid-row: 1/2;
     width: 32px;
     height: 32px;
 }
-    
+.conceptOfTheDay img{
+    width: 180px;
+}
